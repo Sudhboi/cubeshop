@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(192, 201, 209);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 25px;
+    font-size: 100px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(183, 190, 196);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+body {
+    padding: 2% 5%;
+}
+
+.store {
+    background-color: #191a19;
+    box-shadow: 0 0 50px 10px ;
+}
+
+.product {
+    text-align: center;
+    padding: 2% 15%;
+    vertical-align: middle;
+}
+
+button {
+    padding: 12px 12px;
+    font-size: 40px;
+    margin-left: 30px;
+    position: relative;
+    bottom: 150px;
+    color: rgb(183, 190, 196);
+    background-color: #191a19;
+    float: inline-start;
+    
+}
+
+img{
+    box-shadow: 0 0 10px 5px rgb(183, 190, 196);
+}
